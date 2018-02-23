@@ -1,1 +1,6 @@
 log.info "Hello Groovy"
+log.info "How are you"
+for (i=0 ; i< 10 ; i++)
+{
+    log.info "wanna log 10 times"
+}
