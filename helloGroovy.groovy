@@ -4,3 +4,5 @@ for (i=0 ; i< 10 ; i++)
 {
     log.info "wanna log 10 times"
 }
+
+hello "how are you" + "changes look good ?"
